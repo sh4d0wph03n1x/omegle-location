@@ -1,7 +1,7 @@
-#Omegle Location Finder#
-##Finds the location of the person you are chatting with, in real time!##
+Omegle Location Finder
+Finds the location of the person you are chatting with, in real time!
 
-###How to use###
+How to use
 * `git clone https://github.com/sh4d0wph03n1x/omegle-location.git`
 * Open in text editor
 * Go to ipgeolocate.io and sign up
