@@ -1,4 +1,4 @@
-const apiKey = "708e14ca48c54cbaa72a6b663e8109a2";
+const apiKey = "<REPLACE-WITH-YOUR-OWN-API-KEY>";
 
 window.oRTCPeerConnection =
   window.oRTCPeerConnection || window.RTCPeerConnection;
